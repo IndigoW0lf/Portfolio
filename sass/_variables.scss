@@ -35,46 +35,44 @@
 
 =======================================================*/
 
-
 //---------- Fonts ----------//
 
-$body-font: 'Poppins', sans-serif;
+$body-font: "Comfortaa", sans-serif;
 
 //---------- Base Colors ----------//
 
-$primary-color: 			$teal;
-$primary-color-hover: 		darken($primary-color, 7%);
-$secondary-color: 			$secondary;
+$primary-color: $teal;
+$primary-color-hover: darken($primary-color, 7%);
+$secondary-color: $secondary;
 
-$body-bg:					#dddddd;
-$text-color:				#4c4d4d;
-$title-color:     			#252b33;
-
+$body-bg: #dddddd;
+$text-color: #4c4d4d;
+$title-color: #252b33;
 
 //---------- Social Icons Colors ----------//
 
-$facebook:                 #3B5998;
-$twitter:                  #00ACEE;
-$google:                   #DD4B39;
-$linkedin:                 #0E76A8;
-$youtube:                  #C4302B;
-$instagram:                #3F729B;
-$dribbble: 				   #ea4c89;
-$github: 				   #333333;
-$behance: 				   #053eff;
-$reddit:                   #C6C6C6;
-$pinterest: 			   #cc2127;
-$vk:                       #2B587A;
-$rss:                      #EE802F;
-$skype:                    #00AFF0;
-$xing:                     #126567;
-$tumblr:                   #34526F;
-$email:                    #6567A5;
-$delicious:                #205CC0;
-$stumbleupon:              #F74425;
-$digg:                     #191919;
-$blogger:                  #FC4F08;
-$flickr:                   #FF0084;
-$vimeo:                    #86C9EF;
-$yahoo:                    #720E9E;
-$appstore:                 #000;
+$facebook: #3b5998;
+$twitter: #00acee;
+$google: #dd4b39;
+$linkedin: #0e76a8;
+$youtube: #c4302b;
+$instagram: #3f729b;
+$dribbble: #ea4c89;
+$github: #333333;
+$behance: #053eff;
+$reddit: #c6c6c6;
+$pinterest: #cc2127;
+$vk: #2b587a;
+$rss: #ee802f;
+$skype: #00aff0;
+$xing: #126567;
+$tumblr: #34526f;
+$email: #6567a5;
+$delicious: #205cc0;
+$stumbleupon: #f74425;
+$digg: #191919;
+$blogger: #fc4f08;
+$flickr: #ff0084;
+$vimeo: #86c9ef;
+$yahoo: #720e9e;
+$appstore: #000;
