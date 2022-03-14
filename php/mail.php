@@ -36,7 +36,7 @@ $fromName = "Kai Indigo Wolf's Portfolio"; // Replace Company Name
   --------------------------------------------- */
 
 // Add this only if you want to use Google reCaptcha with your Contact Forms.
-// $recaptcha_secret = 'YOUR_RECAPTCHA_SECRET_KEY'; // Your Google reCaptcha Secret
+// $recaptcha_secret = '6LeQxNoeAAAAAAdSktiX0uvyLPcffE8JlD5IIzLY'; // Your Google reCaptcha Secret
 
 
 /* --------------------------------------------
@@ -142,7 +142,7 @@ if (filter_var($toEmail, FILTER_VALIDATE_EMAIL)) {
 	// }
 	//----- reCaptcha End -----//
 
-	$success = "Thank you for contacting us and will be in touch with you very soon."; // Success Message
+	$success = "Thanks for reaching out. It means a lot to me."; // Success Message
 
 	try {
 		$resp = $mail->send();
