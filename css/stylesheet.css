@@ -224,6 +224,10 @@ h6 {
   color: #252b33;
 }
 
+#title {
+  font-family: "Truculenta", sans-serif;
+}
+
 /* =================================== */
 /*  2. Helpers Classes
 /* =================================== */
