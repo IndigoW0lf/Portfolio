@@ -27,9 +27,8 @@ This is a project I built as a homepage/landing page for my resume, my experienc
 ## 🔥 Current Projects
 * Expanding my data structures and algorithm understandings
 * Deep learning into JS and learning React
-* Soaking up SQL and Python like there's no tomorrow
 * Finishing up my BA in Psychology
-* Getting ready for a summer internship!
+* Thoroughly enjoying my summer internship!
 
 ## 💬 Ask me about
 * Homeschooling kids while working ;)
@@ -56,14 +55,5 @@ src="https://img.shields.io/badge/HTML5-0b0b0a?logo=html5&logoColor=b63a65" alt=
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indigow0lf&langs_count=10&layout=compact&bg_color=0b0b0a&text_color=b63a65&title_color=7f60e6&hide_border=true&card_width= 500&custom_title=Languages I'm Using"/>
 </a><br>
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  10,234 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 666 tasks so far           
-⏳  Longest streak is 5 days
-<!-- TODO-IST:END -->
 
 
