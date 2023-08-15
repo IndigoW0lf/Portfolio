@@ -34,7 +34,7 @@ I'm a passionate advocate for social and environmental justice and the idea of w
 * Trying to motivate myself to put more of my relevant projects in my portfolio :p 
 #
 
-<img align="right" alt="Avata" src="https://github.com/IndigoW0lf/IndigoW0lf/blob/main/avatar%20github.png" width="450" height="390"/>  
+<img align="right" alt="Avatar" src="images/skills.png" width="450" height="450"/>  
 
 
 ## 💬 Passionate about
