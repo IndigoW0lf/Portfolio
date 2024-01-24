@@ -229,8 +229,9 @@ h6 {
 }
 
 /* =================================== */
-/*  2. Helpers Classes
+/*  2. Helpers Classes */
 /* =================================== */
+
 /* Box Shadow */
 .shadow-md {
   -webkit-box-shadow: 0px 0px 50px -35px rgba(0, 0, 0, 0.4) !important;
@@ -242,7 +243,7 @@ h6 {
   border-radius: 0.6rem !important;
 }
 
-.rounded-top-0 {
+/* .rounded-top-0 {
   border-top-start-radius: 0px !important;
   border-top-end-radius: 0px !important;
 }
@@ -260,7 +261,7 @@ h6 {
 .rounded-end-0 {
   border-top-end-radius: 0px !important;
   border-bottom-end-radius: 0px !important;
-}
+} */
 
 /* Text Size */
 .text-0 {
