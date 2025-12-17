@@ -237,16 +237,6 @@ $(this).parallaxie({
 });
 });
 
-/*------------------------------------
-    Counter
--------------------------------------- */
-$(".counter").each(function () {
-    $(this).appear(function () {
-        $(this).countTo({
-			speed: 1800,
-		});
-    });
-});
 
 /*------------------------------------
     Typed
@@ -262,14 +252,6 @@ var typed = new Typed('.typed', {
 });
 });
 
-
-/*------------------------------------
-    YTPlayer YouTube Background
--------------------------------------- */
-
-$(".player").each(function () {
-    $(this).mb_YTPlayer();
-});
 
 
 /*------------------------
